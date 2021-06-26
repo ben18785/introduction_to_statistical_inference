@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.7)  21 JUN 2021 17:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.7)  26 JUN 2021 17:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1885,11 +1885,11 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (./introduction_to_statistical_inference.toc) [4
 
 ]
-<./figures/universe.jpeg, id=71, 1284.8pt x 1462.46375pt>
-File: ./figures/universe.jpeg Graphic file (type jpg)
+<../figures/universe.jpeg, id=78, 1284.8pt x 1462.46375pt>
+File: ../figures/universe.jpeg Graphic file (type jpg)
 
-<use ./figures/universe.jpeg>
-Package pdftex.def Info: ./figures/universe.jpeg used on input line 78.
+<use ../figures/universe.jpeg>
+Package pdftex.def Info: ../figures/universe.jpeg used on input line 78.
 (pdftex.def)             Requested size: 174.44734pt x 198.56216pt.
 
 Overfull \vbox (17.35306pt too high) detected at line 78
@@ -1897,7 +1897,7 @@ Overfull \vbox (17.35306pt too high) detected at line 78
 
 [5
 
- <./figures/universe.jpeg>] [6
+ <../figures/universe.jpeg>] [6
 
 ] [7
 
@@ -1910,45 +1910,45 @@ Overfull \vbox (17.35306pt too high) detected at line 78
 ] [11
 
 ]
-<./figures/coin_toss.pdf, id=109, 579.09262pt x 373.92836pt>
-File: ./figures/coin_toss.pdf Graphic file (type pdf)
+<../figures/coin_toss.pdf, id=116, 579.09262pt x 373.92836pt>
+File: ../figures/coin_toss.pdf Graphic file (type pdf)
 
-<use ./figures/coin_toss.pdf>
-Package pdftex.def Info: ./figures/coin_toss.pdf used on input line 163.
+<use ../figures/coin_toss.pdf>
+Package pdftex.def Info: ../figures/coin_toss.pdf used on input line 163.
 (pdftex.def)             Requested size: 174.44734pt x 112.64153pt.
  [12
 
- <./figures/coin_toss.pdf>] [13
+ <../figures/coin_toss.pdf>] [13
 
 ]
-<./figures/coin_toss_density.pdf, id=133, 579.09262pt x 373.928pt>
-File: ./figures/coin_toss_density.pdf Graphic file (type pdf)
+<../figures/coin_toss_density.pdf, id=140, 579.09262pt x 373.928pt>
+File: ../figures/coin_toss_density.pdf Graphic file (type pdf)
 
-<use ./figures/coin_toss_density.pdf>
-Package pdftex.def Info: ./figures/coin_toss_density.pdf used on input line 190
-.
+<use ../figures/coin_toss_density.pdf>
+Package pdftex.def Info: ../figures/coin_toss_density.pdf used on input line 19
+0.
 (pdftex.def)             Requested size: 174.44734pt x 112.64142pt.
  [14
 
- <./figures/coin_toss_density.pdf>]
-<./figures/covid_stick.pdf, id=150, 490.93388pt x 272.64415pt>
-File: ./figures/covid_stick.pdf Graphic file (type pdf)
+ <../figures/coin_toss_density.pdf>]
+<../figures/covid_stick.pdf, id=157, 490.93388pt x 272.64415pt>
+File: ../figures/covid_stick.pdf Graphic file (type pdf)
 
-<use ./figures/covid_stick.pdf>
-Package pdftex.def Info: ./figures/covid_stick.pdf used on input line 202.
+<use ../figures/covid_stick.pdf>
+Package pdftex.def Info: ../figures/covid_stick.pdf used on input line 202.
 (pdftex.def)             Requested size: 174.44734pt x 96.87878pt.
  [15
 
- <./figures/covid_stick.pdf>]
-<./figures/uk-population.pdf, id=158, 1091.69415pt x 651.79643pt>
-File: ./figures/uk-population.pdf Graphic file (type pdf)
+ <../figures/covid_stick.pdf>]
+<../figures/uk-population.pdf, id=165, 1091.69415pt x 651.79643pt>
+File: ../figures/uk-population.pdf Graphic file (type pdf)
 
-<use ./figures/uk-population.pdf>
-Package pdftex.def Info: ./figures/uk-population.pdf used on input line 212.
+<use ../figures/uk-population.pdf>
+Package pdftex.def Info: ../figures/uk-population.pdf used on input line 212.
 (pdftex.def)             Requested size: 290.74263pt x 173.58055pt.
  [16
 
- <./figures/uk-population.pdf>] [17
+ <../figures/uk-population.pdf>] [17
 
 ]
 [18
@@ -1956,11 +1956,309 @@ Package pdftex.def Info: ./figures/uk-population.pdf used on input line 212.
 ] (./introduction_to_statistical_inference.toc) [19
 
 ]
-(./introduction_to_statistical_inference.toc) [20
+<../figures/galton_raw.pdf, id=198, 404.14551pt x 313.17303pt>
+File: ../figures/galton_raw.pdf Graphic file (type pdf)
+
+<use ../figures/galton_raw.pdf>
+Package pdftex.def Info: ../figures/galton_raw.pdf used on input line 242.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (23.69164pt too high) detected at line 242
+ []
+
+[20
+
+ <../figures/galton_raw.pdf>] [21
 
 ]
-Package atenddvi Info: Last page = 21.
- [21
+<../figures/galton_example_lines.pdf, id=236, 404.14551pt x 313.17303pt>
+File: ../figures/galton_example_lines.pdf Graphic file (type pdf)
+
+<use ../figures/galton_example_lines.pdf>
+Package pdftex.def Info: ../figures/galton_example_lines.pdf used on input line
+ 275.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (7.96246pt too high) detected at line 275
+ []
+
+[22
+
+ <../figures/galton_example_lines.pdf>]
+<../figures/galton_model_without_residuals.pdf, id=269, 404.14551pt x 310.38095
+pt>
+File: ../figures/galton_model_without_residuals.pdf Graphic file (type pdf)
+ <use ../figures/galton_model_without_residuals.pdf>
+Package pdftex.def Info: ../figures/galton_model_without_residuals.pdf used on 
+input line 286.
+(pdftex.def)             Requested size: 261.66658pt x 200.96378pt.
+
+Overfull \vbox (21.88383pt too high) detected at line 286
+ []
+
+[23
+
+ <../figures/galton_model_without_residuals.pdf>] [24
+
+]
+<../figures/galton_model_with_residuals.pdf, id=305, 404.14551pt x 310.38095pt>
+File: ../figures/galton_model_with_residuals.pdf Graphic file (type pdf)
+<use ../figures/galton_model_with_residuals.pdf>
+Package pdftex.def Info: ../figures/galton_model_with_residuals.pdf used on inp
+ut line 306.
+(pdftex.def)             Requested size: 261.66658pt x 200.96378pt.
+
+Overfull \vbox (6.15466pt too high) detected at line 306
+ []
+
+[25
+
+ <../figures/galton_model_with_residuals.pdf>] [26
+
+]
+<../figures/galton_fit_sse.pdf, id=343, 404.14551pt x 313.17303pt>
+File: ../figures/galton_fit_sse.pdf Graphic file (type pdf)
+
+<use ../figures/galton_fit_sse.pdf>
+Package pdftex.def Info: ../figures/galton_fit_sse.pdf used on input line 330.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (7.96246pt too high) detected at line 330
+ []
+
+[27
+
+ <../figures/galton_fit_sse.pdf>] [28
+
+]
+<../figures/galton_fits_all.pdf, id=380, 492.57211pt x 313.17303pt>
+File: ../figures/galton_fits_all.pdf Graphic file (type pdf)
+
+<use ../figures/galton_fits_all.pdf>
+Package pdftex.def Info: ../figures/galton_fits_all.pdf used on input line 360.
+
+(pdftex.def)             Requested size: 261.66658pt x 166.36798pt.
+ [29
+
+ <../figures/galton_fits_all.pdf>]
+[30
+
+]
+File: ../figures/galton_fit_sse.pdf Graphic file (type pdf)
+ <use ../figures/galton_fit_sse.pdf>
+Package pdftex.def Info: ../figures/galton_fit_sse.pdf used on input line 384.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (21.56247pt too high) detected at line 384
+ []
+
+[31
+
+] [32
+
+] <../figures/binomial_1.pdf, id=434, 361.35pt x 256.96pt>
+File: ../figures/binomial_1.pdf Graphic file (type pdf)
+
+<use ../figures/binomial_1.pdf>
+Package pdftex.def Info: ../figures/binomial_1.pdf used on input line 404.
+(pdftex.def)             Requested size: 261.66658pt x 186.07361pt.
+ [33
+
+ <../figures/binomial_1.pdf>] [34
+
+]
+<../figures/binomial_2.pdf, id=459, 361.35pt x 256.96pt>
+File: ../figures/binomial_2.pdf Graphic file (type pdf)
+
+<use ../figures/binomial_2.pdf>
+Package pdftex.def Info: ../figures/binomial_2.pdf used on input line 423.
+(pdftex.def)             Requested size: 261.66658pt x 186.07361pt.
+ [35
+
+ <../figures/binomial_2.pdf>] [36
+
+]
+<../figures/binomial_5.pdf, id=484, 361.35pt x 256.96pt>
+File: ../figures/binomial_5.pdf Graphic file (type pdf)
+
+<use ../figures/binomial_5.pdf>
+Package pdftex.def Info: ../figures/binomial_5.pdf used on input line 438.
+(pdftex.def)             Requested size: 261.66658pt x 186.07361pt.
+ [37
+
+ <../figures/binomial_5.pdf>]
+<../figures/binomial_30.pdf, id=505, 361.35pt x 255.95625pt>
+File: ../figures/binomial_30.pdf Graphic file (type pdf)
+
+<use ../figures/binomial_30.pdf>
+Package pdftex.def Info: ../figures/binomial_30.pdf used on input line 447.
+(pdftex.def)             Requested size: 261.66658pt x 185.34676pt.
+ [38
+
+ <../figures/binomial_30.pdf>] [39
+
+]
+[40
+
+] [41
+
+] [42
+
+]
+File: ../figures/galton_fit_sse.pdf Graphic file (type pdf)
+ <use ../figures/galton_fit_sse.pdf>
+Package pdftex.def Info: ../figures/galton_fit_sse.pdf used on input line 533.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (7.96246pt too high) detected at line 533
+ []
+
+[43
+
+] [44
+
+]
+<../figures/galton_regression_to_mean.pdf, id=558, 404.14551pt x 313.17303pt>
+File: ../figures/galton_regression_to_mean.pdf Graphic file (type pdf)
+
+<use ../figures/galton_regression_to_mean.pdf>
+Package pdftex.def Info: ../figures/galton_regression_to_mean.pdf used on input
+ line 559.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (7.96246pt too high) detected at line 559
+ []
+
+[45
+
+ <../figures/galton_regression_to_mean.pdf>] [46
+
+]
+(./introduction_to_statistical_inference.toc) [47
+
+] [48
+
+] [49
+
+]
+<../figures/galton_linearity.pdf, id=614, 411.50111pt x 314.58885pt>
+File: ../figures/galton_linearity.pdf Graphic file (type pdf)
+
+<use ../figures/galton_linearity.pdf>
+Package pdftex.def Info: ../figures/galton_linearity.pdf used on input line 607
+.
+(pdftex.def)             Requested size: 261.66658pt x 200.0401pt.
+
+Overfull \vbox (5.23099pt too high) detected at line 607
+ []
+
+[50
+
+ <../figures/galton_linearity.pdf>]
+<../figures/galton_variance.pdf, id=646, 409.72887pt x 310.38095pt>
+File: ../figures/galton_variance.pdf Graphic file (type pdf)
+
+<use ../figures/galton_variance.pdf>
+Package pdftex.def Info: ../figures/galton_variance.pdf used on input line 616.
+
+(pdftex.def)             Requested size: 261.66658pt x 198.22162pt.
+
+Overfull \vbox (3.4125pt too high) detected at line 616
+ []
+
+[51
+
+ <../figures/galton_variance.pdf>] [52
+
+]
+(./introduction_to_statistical_inference.toc) [53
+
+] [54
+
+] [55
+
+] [56
+
+] [57
+
+] [58
+
+]
+<../figures/galton_0.pdf, id=717, 404.14551pt x 313.17303pt>
+File: ../figures/galton_0.pdf Graphic file (type pdf)
+
+<use ../figures/galton_0.pdf>
+Package pdftex.def Info: ../figures/galton_0.pdf used on input line 714.
+(pdftex.def)             Requested size: 125.59883pt x 97.32634pt.
+
+<../figures/galton_1.pdf, id=718, 404.14551pt x 313.17303pt>
+File: ../figures/galton_1.pdf Graphic file (type pdf)
+
+<use ../figures/galton_1.pdf>
+Package pdftex.def Info: ../figures/galton_1.pdf used on input line 714.
+(pdftex.def)             Requested size: 125.59883pt x 97.32634pt.
+
+<../figures/galton_2.pdf, id=719, 404.14551pt x 313.9096pt>
+File: ../figures/galton_2.pdf Graphic file (type pdf)
+
+<use ../figures/galton_2.pdf>
+Package pdftex.def Info: ../figures/galton_2.pdf used on input line 714.
+(pdftex.def)             Requested size: 125.59883pt x 97.55525pt.
+
+<../figures/galton_3.pdf, id=720, 404.14551pt x 310.38095pt>
+File: ../figures/galton_3.pdf Graphic file (type pdf)
+
+<use ../figures/galton_3.pdf>
+Package pdftex.def Info: ../figures/galton_3.pdf used on input line 714.
+(pdftex.def)             Requested size: 125.59883pt x 96.45863pt.
+ [59
+
+ <../figures/galton_0.pdf> <../figures/galton_1.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ../figures/galton_1.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <../figures/galton_2.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ../figures/galton_2.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+> <../figures/galton_3.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ../figures/galton_3.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>]
+<../figures/galton_bootstrapped_estimates.pdf, id=831, 404.14551pt x 313.17303p
+t>
+File: ../figures/galton_bootstrapped_estimates.pdf Graphic file (type pdf)
+ <use ../figures/galton_bootstrapped_estimates.pdf>
+Package pdftex.def Info: ../figures/galton_bootstrapped_estimates.pdf used on i
+nput line 723.
+(pdftex.def)             Requested size: 261.66658pt x 202.77158pt.
+
+Overfull \vbox (7.96246pt too high) detected at line 723
+ []
+
+[60
+
+ <../figures/galton_bootstrapped_estimates.pdf>]
+<../figures/galton_bootstrapped_estimates_histogram.pdf, id=863, 398.56215pt x 
+310.38095pt>
+File: ../figures/galton_bootstrapped_estimates_histogram.pdf Graphic file (type
+ pdf)
+ <use ../figures/galton_bootstrapped_estimates_histogram.pdf>
+Package pdftex.def Info: ../figures/galton_bootstrapped_estimates_histogram.pdf
+ used on input line 732.
+(pdftex.def)             Requested size: 261.66658pt x 203.78645pt.
+
+Overfull \vbox (8.97734pt too high) detected at line 732
+ []
+
+[61
+
+ <../figures/galton_bootstrapped_estimates_histogram.pdf>] [62
+
+]
+Package atenddvi Info: Last page = 63.
+ [63
 
 ]
 \tf@nav=\write8
@@ -1972,15 +2270,15 @@ Package atenddvi Info: Last page = 21.
 \tf@snm=\write10
 \openout10 = `introduction_to_statistical_inference.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 245.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 245.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 754.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 754.
 
 (./introduction_to_statistical_inference.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 245.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 245.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 754.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 754.
 Package rerunfilecheck Info: File `introduction_to_statistical_inference.out' h
 as not changed.
-(rerunfilecheck)             Checksum: 476136606EE421E0E856C1084FEDEE00;195.
+(rerunfilecheck)             Checksum: 2A07B18BB9CC2E8A00F64632797942DC;282.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1990,32 +2288,34 @@ Package logreq Info: Writing requests to 'introduction_to_statistical_inference
 .run.xml'.
 \openout1 = `introduction_to_statistical_inference.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 245.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 754.
  ) 
 Here is how much of TeX's memory you used:
- 35571 strings out of 493014
- 689111 string characters out of 6133352
- 1095497 words of memory out of 5000000
- 38395 multiletter control sequences out of 15000+600000
+ 35841 strings out of 493014
+ 693918 string characters out of 6133352
+ 1097497 words of memory out of 5000000
+ 38559 multiletter control sequences out of 15000+600000
  20610 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,16n,96p,10441b,720s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfso1000.pfb>
-Output written on introduction_to_statistical_inference.pdf (21 pages, 896136 b
-ytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfso1000.pfb>
+Output written on introduction_to_statistical_inference.pdf (63 pages, 2137098 
+bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 46 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 979 PDF objects out of 1000 (max. 8388607)
+ 528 compressed objects within 6 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 235 words of extra memory for PDF output out of 10000 (max. 10000000)
 
