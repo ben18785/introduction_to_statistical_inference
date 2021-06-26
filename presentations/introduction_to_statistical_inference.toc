@@ -4,8 +4,10 @@
 \defcounter {refsection}{0}\relax 
 \beamer@sectionintoc {1}{The scientific process and statistics}{4}{0}{1}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {2}{Estimating interesting quantities using regression}{19}{0}{2}
+\beamer@sectionintoc {2}{Estimating interesting quantities using regression}{18}{0}{2}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {3}{Model based thinking}{47}{0}{3}
+\beamer@sectionintoc {3}{Model based thinking}{46}{0}{3}
 \defcounter {refsection}{0}\relax 
-\beamer@sectionintoc {4}{Unpicking the signal from the noise}{53}{0}{4}
+\beamer@sectionintoc {4}{Unpicking the signal from the noise}{52}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Can statistics help to determine causation?}{62}{0}{5}

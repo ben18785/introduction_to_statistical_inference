@@ -80,24 +80,28 @@
 \begin{frame}
 	\frametitle{What does it mean to understand the universe?}
 	
-	Understand causality.
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.5\textwidth]{../figures/chicken_egg.jpeg}}
+	\end{figure}
 	
 \end{frame}
 
 \begin{frame}
-	\frametitle{How do we test our understanding?}
+	\frametitle{Why do we need data and statistics?}
 	
-	Make predictions. Compare reality with our predictions.
-
+	\Large
+	Question: can't we just use data we collect?
+	
 \end{frame}
 
 \begin{frame}
-	\frametitle{What can statistical inference help with?}
+	\frametitle{Nate Silver}
 	
-	\begin{itemize}
-		\item Generating understanding from data
-		\item Testing our scientific hypotheses versus data
-	\end{itemize}
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.5\textwidth]{../figures/natesilver.jpeg}}
+	\end{figure}
+	
+	``The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.''
 	
 \end{frame}
 
@@ -208,17 +212,6 @@
 	\begin{figure}[ht]
 		\centerline{\includegraphics[width=1\textwidth]{../figures/uk-population.pdf}}
 	\end{figure}
-	
-\end{frame}
-
-\begin{frame}
-	\frametitle{What probability model to use?}
-	
-	Again, we could use a \textit{binomial} model.
-	
-	\vspace{0.5cm}
-	
-	Note, very different problems often can share the same probability model.
 	
 \end{frame}
 
@@ -714,7 +707,7 @@
 \end{frame}
 
 \begin{frame}
-	\frametitle{Bootstrapped Galton estimates}
+	\frametitle{Bootstrapped Galton estimates: 4 bootstrapped samples}
 	
 	\begin{figure}[ht]
 		\centerline{\includegraphics[width=0.9\textwidth]{../figures/galton_bootstrapped_estimates.pdf}}
@@ -723,7 +716,7 @@
 \end{frame}
 
 \begin{frame}
-	\frametitle{Bootstrapped Galton estimates}
+	\frametitle{Bootstrapped Galton estimates: 100 bootstrapped samples}
 	
 	\begin{figure}[ht]
 		\centerline{\includegraphics[width=0.9\textwidth]{../figures/galton_bootstrapped_estimates_histogram.pdf}}
@@ -743,11 +736,120 @@
 	
 \end{frame}
 
+\section{Can statistics help to determine causation?}
+\frame{\tableofcontents[currentsection]}
+
+
+\begin{frame}
+	\frametitle{Correlation and causation}
+	
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.5\textwidth]{../figures/judea_pearl.jpeg}}
+	\end{figure}
+	
+	``"Correlation is not causation". With good reason! The rooster's crow is highly correlated with the sunrise; yet it does not cause the sunrise. Unfortunately, statistics has fetishized this commonsense observation. It tells us that correlation is not causation, but it does not tell us what causation is.''
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Smoking and lung cancer: how did we get here?}
+	
+	\begin{columns}
+		\begin{column}{0.48\textwidth}
+			\includegraphics[width=0.9\textwidth]{../figures/cigarette_early1.jpeg}
+		\end{column}
+		\begin{column}{0.48\textwidth}
+			\includegraphics[width=0.9\textwidth]{../figures/cigarette_late.jpeg}
+		\end{column}
+	\end{columns}
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Occurrence of lung cancer: early on}
+	
+	\begin{quotation}
+		Lung cancer was once a very rare disease, so rare that doctors took special notice when confronted with a case, thinking it a once-in-a-lifetime oddity.
+	\end{quotation}
+	
+	\begin{quotation}
+		Lung cancer was not even recognised medically until the 18th century, and as recently as 1900 only about 140 cases were known in the published medical literature.
+	\end{quotation}
+	
+	\footnotesize Both taken from ``The history of the discovery of the cigarette-lung cancer link: evidentiary traditions, corporate denial, global toll'', Proctor, \textit{Tobacco Control} 2012.
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Correlation: early-mid twentieth century}
+	
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.8\textwidth]{../figures/smoking_cancer.png}}
+	\end{figure}
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Case-control: Doll and Hill, 1950}
+	
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.8\textwidth]{../figures/doll_hill_table}}
+	\end{figure}
+	\footnotesize ``Smoking and carcinoma of the lung'', Doll and Hill, \textit{BMJ} 1950.
+\end{frame}
+
+\begin{frame}
+	\frametitle{Prospective cohort study: Doll and Hill, 1954}
+	
+	Study of over 40,000 doctors.
+	
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.8\textwidth]{../figures/doll_hill_1954.pdf}}
+	\end{figure}
+	
+	\footnotesize ``The mortality of doctors in relation to their smoking habits'', Doll and Hill, \textit{BMJ} 1950.
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Include short discussion of other sources of evidence}
+	
+	From Proctor article: animal studies, mechanisms. Conclude though that correlation, and other non-experimental studies key to understanding causality.
+	
+\end{frame}
+
+\begin{frame}
+	\frametitle{Experiments: an easier but immoral way to arrive at same conclusion}
+	
+	\begin{figure}[ht]
+		\centerline{\includegraphics[width=0.3\textwidth]{../figures/einstein_oxford.jpeg}}
+	\end{figure}
+	
+	``Development of Western science is based on two great achievements: the invention of the formal logical system (in Euclidean geometry) by the Greek philosophers, and the discovery of the possibility to find out causal relationships by systematic experiment (during the Renaissance).''
+	
+\end{frame}
 
 \begin{frame}
 	\frametitle{That's it!}
 	
 	\Large Questions?
+\end{frame}
+
+\begin{frame}
+	\frametitle{Further material}
+	
+	\begin{columns}
+		\begin{column}{0.3\textwidth}
+			\includegraphics[width=0.9\textwidth]{../figures/art_of_statistics.jpeg}
+		\end{column}
+		\begin{column}{0.3\textwidth}
+			\includegraphics[width=0.9\textwidth]{../figures/signal_noise.jpeg}
+		\end{column}
+		\begin{column}{0.3\textwidth}
+			\includegraphics[width=0.9\textwidth]{../figures/tufte.jpeg}
+		\end{column}
+	\end{columns}
+	
 \end{frame}
 
 
