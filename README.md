@@ -9,5 +9,5 @@ This is a half-day course aimed at providing a short introduction to statistical
 
 The lecture notes for this course are [here](./presentations/introduction_to_statistical_inference.pdf).
 
-The [problem set](.problem_sets/wine.ipynb) for this course mirrors the lecture content and works through a regression analysis of [wine data](https://www.kaggle.com/zynicide/wine-reviews).
-The answers for this problem set are available [here](.problem_sets/answers/wine.ipynb).
+The [problem set](./problem_sets/wine.ipynb) for this course mirrors the lecture content and works through a regression analysis of [wine data](https://www.kaggle.com/zynicide/wine-reviews).
+The answers for this problem set are available [here](./problem_sets/answers/wine.ipynb).
