@@ -1,4 +1,4 @@
-# introduction_to_statistical_inference
+# Introduction to statistical inference
 This is a half-day course aimed at providing a short introduction to statistical inference. In it, we cover:
 
 - why do we need statistics?
